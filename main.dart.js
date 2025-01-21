@@ -101345,10 +101345,10 @@ $0(){var s=$.aa9().gE()
 if(s!=null)s.Fp(B.ae3)},
 $S:0}
 A.aBv.prototype={
-$0(){$.aNT().oH("open",["https://github.com/Group1-PPL-31N-2425/lextax_analysis"])},
+$0(){$.aNT().oH("open",["https://github.com/marcoxmediran/lextax_analysis"])},
 $S:0}
 A.aBw.prototype={
-$0(){$.aNT().oH("open",["https://github.com/Group1-PPL-31N-2425/lextax_analysis_web"])},
+$0(){$.aNT().oH("open",["https://github.com/marcoxmediran/lextax_analysis_web"])},
 $S:0}
 A.aBx.prototype={
 $1(a){var s=this.a
